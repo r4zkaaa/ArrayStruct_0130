@@ -43,3 +43,5 @@ int main ()
         cin >> datamu [i];
     }
     cout<< endl;
+
+      cout << "Tampil data array menggunakan for" << endl;
