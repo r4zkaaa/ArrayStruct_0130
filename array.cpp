@@ -16,3 +16,5 @@ int main ()
 
     //Mengisi data dengan perintah satu persatu
     cout << "Isikan data pertama : ";
+     cin >> datamu [0];
+    cout << "Isikan data kedua : ";
