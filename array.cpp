@@ -20,3 +20,5 @@ int main ()
     cout << "Isikan data kedua : ";
      cin >> datamu [1];
     cout << "Isikan data ketiga : ";
+     cin >> datamu [2];
+    cout << "Isikan data keempat : ";
