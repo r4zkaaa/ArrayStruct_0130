@@ -5,3 +5,5 @@ struct Orang
 {
     string nama;
     string alamat;
+      int umur;
+};
