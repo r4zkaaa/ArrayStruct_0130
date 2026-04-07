@@ -20,3 +20,12 @@ int main ()
     cout << "Isikan data umur : ";
     cin >> mhs.umur;
     cout << endl;
+
+     cout << "Data Tampil" << endl;
+    cout << "Nama : " << mhs.nama << endl;
+    cout << "Alamat : " << mhs.alamat << endl;
+    cout << "Umur : " << mhs.umur << endl;
+
+}
+
+    
